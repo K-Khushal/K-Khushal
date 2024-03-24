@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer engineering student from Gujarat. Passionate about programming and new technologies, I'm like a curious kid always eager to learn and explore cool stuff.
+I'm a computer engineering student from Gujarat. Passionate about programming and new technologies, I'm curious, and always eager to learn and explore cool stuff.
 
 
 ## 🌐 Socials:
