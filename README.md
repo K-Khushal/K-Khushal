@@ -16,11 +16,11 @@
 
 ```Other Technologies```
 
-![My Skills](https://skills.thijs.gg/icons?i=nodejs,firebase,supabase,mongodb&theme=light)
+![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,supabase,mongodb&theme=light)
 
 ```Tools & Platforms```
 
-![My Skills](https://skills.thijs.gg/icons?i=git,github,postman,netlify,vercel,azure,gcp,powershell,vscode,idea,webstorm,wordpress&theme=light&perline=6)
+![My Skills](https://skillicons.dev/icons?i=git,github,postman,netlify,vercel,azure,gcp,powershell,vscode,idea,webstorm,wordpress&theme=light&perline=6)
 
 ## 🏢 Work Experiences
 - #### Intern at [**Neomenta Private Limited**](https://neome.ai/)
