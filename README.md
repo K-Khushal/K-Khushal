@@ -8,11 +8,11 @@
 ## ⚙️ Tech Stack
 ```Programming Languages```
 
-![My Skills](https://skills.thijs.gg/icons?i=java,js,cpp,c&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,js,cpp,c&theme=light)
 
 ```Front-End Technologies```
 
-![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,redux,vite,tailwind,bootstrap,html,css&theme=light&perline=4)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,vite,tailwind,bootstrap,html,css&theme=light&perline=4)
 
 ```Other Technologies```
 
